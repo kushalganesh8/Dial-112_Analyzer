@@ -1,0 +1,80 @@
+[
+    {
+        "Crime":"Accident",
+        "Sub-Crime":"Car Accident",
+        "Severity Rank (1\u201310) based on threat or frequency":10,
+        "Notes":"Very frequent; severity depends on injuries"
+    },
+    {
+        "Crime":"Accident",
+        "Sub-Crime":"Train Accident",
+        "Severity Rank (1\u201310) based on threat or frequency":7,
+        "Notes":"Rare but high-casualty; critical response"
+    },
+    {
+        "Crime":"Robbery",
+        "Sub-Crime":"Chain Snatching",
+        "Severity Rank (1\u201310) based on threat or frequency":8,
+        "Notes":"Moderate violence; frequent in urban areas"
+    },
+    {
+        "Crime":"Robbery",
+        "Sub-Crime":"Vehicle Theft",
+        "Severity Rank (1\u201310) based on threat or frequency":5,
+        "Notes":"Common property crime; usually post-fact"
+    },
+    {
+        "Crime":"Body Offence",
+        "Sub-Crime":"Assault",
+        "Severity Rank (1\u201310) based on threat or frequency":9,
+        "Notes":"Active threat to person; needs urgent response"
+    },
+    {
+        "Crime":"Body Offence",
+        "Sub-Crime":"Kidnapping",
+        "Severity Rank (1\u201310) based on threat or frequency":8,
+        "Notes":"Threat to life\/freedom, especially minors or women"
+    },
+    {
+        "Crime":"Body Offence",
+        "Sub-Crime":"Murder",
+        "Severity Rank (1\u201310) based on threat or frequency":10,
+        "Notes":"Highest severity; always top priority"
+    },
+    {
+        "Crime":"Body Offence",
+        "Sub-Crime":"Attempt to Murder",
+        "Severity Rank (1\u201310) based on threat or frequency":10,
+        "Notes":"Highest severity; always top priority"
+    },
+    {
+        "Crime":" Disaster",
+        "Sub-Crime":"Flood Disaster",
+        "Severity Rank (1\u201310) based on threat or frequency":6,
+        "Notes":"High scale impact; needs multi-agency coordination"
+    },
+    {
+        "Crime":"Offence Against Public",
+        "Sub-Crime":"Drunken Misconduct in Public",
+        "Severity Rank (1\u201310) based on threat or frequency":5,
+        "Notes":"Moderate public safety issue; escalates in crowd settings"
+    },
+    {
+        "Crime":" Missing",
+        "Sub-Crime":"Missing Child",
+        "Severity Rank (1\u201310) based on threat or frequency":9,
+        "Notes":"Time-sensitive; often leads to serious consequences if delayed"
+    },
+    {
+        "Crime":"Offence Against Women",
+        "Sub-Crime":"Eve -Teasing",
+        "Severity Rank (1\u201310) based on threat or frequency":6,
+        "Notes":"Public harassment; can escalate if ignored; needs legal and social action"
+    },
+    {
+        "Crime":"Offence Against Women",
+        "Sub-Crime":"Domestic Violence",
+        "Severity Rank (1\u201310) based on threat or frequency":9,
+        "Notes":"Severe personal harm; often hidden; requires sensitive, urgent handling"
+    }
+]
